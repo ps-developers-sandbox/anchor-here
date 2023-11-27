@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to jnus's slide deck!"
 ---
 
-Caption here
+Automate all the things
 
-![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
+![orderedlistocat](https://aksioma.org/wp-content/uploads/2020/04/automate.png)
 {: .center}
